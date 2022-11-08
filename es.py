@@ -10,6 +10,7 @@ def soleq(n1,n2,sigma):
     #creo f (copia di x)
     f=np.array(x)
     j=np.sign(n2-n1) #ritorna 1 se n2>n1 e -1 viceversa
+    print('ciao')
     
     f[n1]=0
     f[n1+j]=1.0e-4
