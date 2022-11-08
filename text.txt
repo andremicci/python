@@ -1,0 +1,2 @@
+con il modulo sys si accede agli argomenti passati al codice da terminale
+argv[1] è il nome dell'eseguibile
